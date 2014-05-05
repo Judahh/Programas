@@ -16,23 +16,13 @@ Programas
 
 -Microsoft Office
 
--Adobe Reader PDF
-
--Adobe Flash Playes
-
 -uTorrent
 
 -Silverlight
 
 -Microsoft Security Essentials
 
--Skype
-
 -TeamViewer (OP)
-
--Drive Placa de Video,Bluetooth, wifi, etc...
-
-
 
 Armazenamento
 =========
