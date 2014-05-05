@@ -1,7 +1,5 @@
 Programas
 =========
--Netbeans
-
 -Quartus
 
 -EaSynth
@@ -23,10 +21,6 @@ Programas
 -Adobe Flash Playes
 
 -uTorrent
-
--Winrar
-
--7zip
 
 -Silverlight
 
