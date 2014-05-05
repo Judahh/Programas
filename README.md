@@ -14,8 +14,6 @@ Programas
 
 -High-Logic FontCreator
 
--Chrome
-
 -Itunes
 
 -Microsoft Office
@@ -54,8 +52,6 @@ Armazenamento
 -Copy
 
 -Google Drive
-
--SkyDrive (Microsoft OneDrive)
 
 -Apple iCloud
 
