@@ -18,8 +18,6 @@ Programas
 
 -uTorrent
 
--Silverlight
-
 -Microsoft Security Essentials
 
 -TeamViewer (OP)
@@ -27,15 +25,7 @@ Programas
 Armazenamento
 =========
 
--Github
-
--Dropbox
-
 -Mega (megaupload)
-
--Copy
-
--Google Drive
 
 -Apple iCloud
 
