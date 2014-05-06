@@ -6,13 +6,9 @@ Programas
 
 -CodeWarrior
 
--MySql Workbench
-
 -High-Logic FontCreator
 
 -Microsoft Office
-
--uTorrent
 
 -Microsoft Security Essentials
 
@@ -20,4 +16,4 @@ Programas
 
 Armazenamento
 =========
--Evernote
+-Evernote (OP)
