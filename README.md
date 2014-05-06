@@ -20,8 +20,4 @@ Programas
 
 Armazenamento
 =========
-
--Apple iCloud
-
 -Evernote
-
