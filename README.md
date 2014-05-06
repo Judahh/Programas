@@ -8,11 +8,7 @@ Programas
 
 -MySql Workbench
 
--Paint.NET
-
 -High-Logic FontCreator
-
--Itunes
 
 -Microsoft Office
 
@@ -24,8 +20,6 @@ Programas
 
 Armazenamento
 =========
-
--Mega (megaupload)
 
 -Apple iCloud
 
