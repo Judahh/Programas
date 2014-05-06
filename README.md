@@ -10,8 +10,6 @@ Programas
 
 -Microsoft Office
 
--Microsoft Security Essentials
-
 -TeamViewer (OP)
 
 Armazenamento
