@@ -4,8 +4,6 @@ Programas
 
 -EaSynth
 
--CodeWarrior
-
 -High-Logic FontCreator
 
 -Microsoft Office
